@@ -12,10 +12,6 @@ const User = require('./models/user');
 
 
 
-
-
-
-
  // server
  const app = express();
  const port = process.env.port || 5000;
